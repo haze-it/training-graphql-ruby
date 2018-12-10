@@ -1,5 +1,8 @@
 graphql-app/tmp/*
 graphql-app/vender/*
 graphql-app/log/*
+default-app/tmp/*
+default-app/vender/*
+default-app/log/*
 
 .keep
